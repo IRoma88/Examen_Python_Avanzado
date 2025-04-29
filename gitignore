@@ -1,0 +1,40 @@
+# Archivos de sistema Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Archivos de Jupyter/Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb~
+
+# Archivos de texto generados
+*.txt
+
+# Archivos ocultos o temporales
+*~
+*.bak
+*.swp
+*.swo
+
+# Archivos creados por Colab
+.env
+.env.*
+.DS_Store
+.history
+
+# Carpetas comunes de entorno virtual (por si se usa en local)
+venv/
+ENV/
+env/
+.venv/
+
+# Carpeta de configuración de VSCode
+.vscode/
